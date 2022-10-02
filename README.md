@@ -1,5 +1,5 @@
-this project is the patteren behind the shopping cart system
-the react used techniques:
+this project is the pattern behind the shopping cart system the react used techniques:
+
  Specifying Children component
  
  Embedding Expressions
